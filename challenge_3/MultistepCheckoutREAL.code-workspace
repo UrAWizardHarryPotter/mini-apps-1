@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/hrsf127-grocery-list-master"
+		}
+	],
+	"settings": {
+		"emmet.showExpandedAbbreviation": "never",
+		"javascript.validate.enable": false
+	}
+}
